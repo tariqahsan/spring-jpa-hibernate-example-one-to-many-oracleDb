@@ -1,0 +1,51 @@
+#URL : POST : http://localhost:8190/rest/productmanufacturer/add
+
+{
+	"name": "Toshiba",
+    "effectiveStartDate": "2018-02-12",
+    "effectiveEndDate": "2019-02-12",
+	"products":[{
+		"name": "Toshiba",
+		"description": "TV",
+		"effectiveStartDate": "2018-02-12",
+    	"effectiveEndDate": "2019-02-12",
+		"productUserRoleAssignments":[{
+			"effectiveStartDate": "2018-02-12",
+			"effectiveEndDate": "2019-02-12"
+		}],
+		"productEditions":[{
+			"name": "Toshiba",
+			"versionNumber": "2.5",
+			"effectiveStartDate": "2018-02-12",
+    		"effectiveEndDate": "2019-02-12"
+		}, 
+		{
+			"name": "Toshiba Flat",
+			"versionNumber": "3.5",
+			"effectiveStartDate": "2018-02-12",
+    		"effectiveEndDate": "2019-02-12"
+		}]
+	},
+	{
+		"name": "NCR",
+		"description": "TV",
+		"effectiveStartDate": "2018-02-12",
+    	"effectiveEndDate": "2019-02-12",
+		"productUserRoleAssignments":[{
+			"effectiveStartDate": "2018-02-12",
+			"effectiveEndDate": "2019-02-12"
+		}],
+		"productEditions":[{
+			"name": "NCR",
+			"versionNumber": "4.5",
+			"effectiveStartDate": "2018-02-12",
+    		"effectiveEndDate": "2019-02-12"
+		}, 
+		{
+			"name": "Toshiba Flat",
+			"versionNumber": "7.5",
+			"effectiveStartDate": "2018-02-12",
+    		"effectiveEndDate": "2019-02-12"
+		}]
+	}]
+}
