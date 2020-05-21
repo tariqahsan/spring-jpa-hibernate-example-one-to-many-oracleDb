@@ -1,0 +1,18 @@
+{
+	"name": "Flat Screen LCD TV",
+	"effectiveStartDate": "2020-05-21",
+	"effectiveEndDate": "2020-11-21",
+	"products": [ {
+		"name": "Hitachi 200XVP",
+		"description": "2090 HP",
+		"effectiveStartDate": "2019-05-21",
+		"effectiveEndDate": "2019-11-21",
+		"productEditions": [ {
+			"name": "Htachi 2019 Model",
+			"edition": "2.15.3",
+			"effectiveStartDate": "2019-05-21",
+			"effectiveEndDate": "2019-11-21"
+		}	]
+	}	]
+	
+}
